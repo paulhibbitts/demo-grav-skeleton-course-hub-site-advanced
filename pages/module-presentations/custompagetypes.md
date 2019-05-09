@@ -1,5 +1,5 @@
 ---
-title: 'Module Presentations'
+title: 'All Presentations'
 published: true
 child_type: iframe
 visible: true
