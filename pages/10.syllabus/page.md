@@ -1,7 +1,6 @@
 ---
 title: Syllabus
 published: false
-hide_page_title: false
 show_sidebar: false
 hide_git_sync_repo_link: false
 ---
@@ -48,4 +47,4 @@ Team (54%)
 Reading quizzes must be submitted no later than 10:00am class day - no exceptions. Late assignments will not be accepted without valid documentation (e.g. medical certificate).
 
 ## Required Textbook
-Are you kidding me, in 2017? All required readings will be available on-line.   
+Are you kidding me, in 2021? All required readings will be available on-line.   
